@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://anilife.live/assets/img/animestream.png",
-    "fileHash": "sha256-b95d8ad5641f4fd6974b2920027c9156c15e1f7c0d8c9eec558589d47e6a9a41",
+    "fileHash": "sha256-2550e469bb2928d6e4b76e2196b7056cf520e0cf69c6146a2164c1a3c46f165d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
-    "fileSize": 26042,
+    "fileSize": 26039,
     "status": 1,
     "language": "ko",
     "authors": [
@@ -13,15 +13,15 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "AnilifeProvider",
     "description": "애니메이션 한글 자막 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/AnilifeProvider-v534-b95d8ad5641f.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/AnilifeProvider-v535-2550e469bb29.cs3",
     "name": "AnilifeProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/CUTVProvider/biglogo.png",
-    "fileHash": "sha256-d3e0be82410b3236186ec342b432e33e82747dd7904b9ee785f0a4cb80176629",
+    "fileHash": "sha256-54d9c1d51a5e0a0f513919778423aa90b104cfc4a45122a8497521f0afe811e2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 32468,
@@ -33,15 +33,15 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "CUTVProvider",
     "description": "스포츠 생중계 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/CUTVProvider-v534-d3e0be82410b.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/CUTVProvider-v535-54d9c1d51a5e.cs3",
     "name": "CUTVProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/DaddyLive/live-streaming.png",
-    "fileHash": "sha256-9c42f2a85321b937ef0c6e8fae4e6ea6816d97c533b3b17aa8637b830dc6aa9f",
+    "fileHash": "sha256-1809b1d130592ad540ddd8d1eac33975725be27c960feb10f1a2dcd7d549927f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 53120,
@@ -52,14 +52,14 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 549,
+    "version": 550,
     "internalName": "DaddyLive",
     "description": "Live TV from DaddyLive. You might need a VPN",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/DaddyLive-v549-9c42f2a85321.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/DaddyLive-v550-1809b1d13059.cs3",
     "name": "DaddyLive"
   },
   {
-    "fileHash": "sha256-144d75eb2ba0d63d48f3b1049db51a04f8318836cb68dea576d7611d4d56425d",
+    "fileHash": "sha256-62e1db30e5960f8d1ff581c55d0ca6c828c16738a7c7327c9ea49e975659fb27",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 228938,
@@ -71,18 +71,18 @@
     "tvTypes": [
       "Other"
     ],
-    "version": 246,
+    "version": 247,
     "internalName": "Elevate",
     "description": "Enhance CloudStream with native detail search and global PiP subtitles",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/Elevate-v246-144d75eb2ba0.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/Elevate-v247-62e1db30e596.cs3",
     "name": "Elevate"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/KKTVProvider/KKTV.jpg",
-    "fileHash": "sha256-ec3bf0ba30685b721110296c080aa8e01cf420e80316c4296d0db1ed5e6ac3db",
+    "fileHash": "sha256-ee3e3de7c01576f3117e9c65023fc4b26cc809f6474d7e3cea9654f85d6f5a3e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
-    "fileSize": 19949,
+    "fileSize": 19948,
     "status": 1,
     "language": "ko",
     "authors": [
@@ -91,18 +91,18 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "KKTVProvider",
     "description": "스포츠 생중계 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/KKTVProvider-v534-ec3bf0ba3068.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/KKTVProvider-v535-ee3e3de7c015.cs3",
     "name": "KKTVProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/KotbcProvider/ktblogo.png",
-    "fileHash": "sha256-f70e69f8284bb5d0af5b99013609bfc33535944409d2a9bd24db1c3d59ec88f6",
+    "fileHash": "sha256-1e34eb9ec0658d4f67d508a2a53b8b4653c46b63b44a252cbc903f37bc45bca7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
-    "fileSize": 48212,
+    "fileSize": 48209,
     "status": 1,
     "language": "ko",
     "authors": [
@@ -114,15 +114,15 @@
       "AsianDrama",
       "Anime"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "KotbcProvider",
     "description": "한국 드라마 및 TV 프로그램 다시보기 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/KotbcProvider-v534-f70e69f8284b.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/KotbcProvider-v535-1e34eb9ec065.cs3",
     "name": "KotbcProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/LinkkfProvider/linktv.png",
-    "fileHash": "sha256-1b34499d030c9dd6b22b1644d49ec778f881e88d92a10278d96fc844c3a281ca",
+    "fileHash": "sha256-3c7a5274036fe350fc1c24c772a9961c1313dd9b2a41f686674dc17d6ca0d2e4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 22726,
@@ -134,15 +134,15 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "LinkkfProvider",
     "description": "애니메이션 한글 자막 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/LinkkfProvider-v534-1b34499d030c.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/LinkkfProvider-v535-3c7a5274036f.cs3",
     "name": "LinkkfProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/MoviekingProvider/image-4.png",
-    "fileHash": "sha256-b0f909377173e984fccec675a957ed71365d5523fa19dd5b7da8855a53fc9b1a",
+    "fileHash": "sha256-b1251212dcb2d146450f460b712372e66786e9d70e513fa5c6e9b85047d060e3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 54459,
@@ -157,15 +157,15 @@
       "AsianDrama",
       "Anime"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "MoviekingProvider",
     "description": "한국 드라마 및 TV 프로그램 다시보기 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/MoviekingProvider-v534-b0f909377173.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/MoviekingProvider-v535-b1251212dcb2.cs3",
     "name": "MoviekingProvider"
   },
   {
     "iconUrl": "https://ani.ohli24.com/img/logo@2x.png",
-    "fileHash": "sha256-2e87614674fcdd977170270acac7d4980cb0c4b27c3ae9b6ed680bfee054ac63",
+    "fileHash": "sha256-0d6e1d6ebbbd8f743d5ac4acb0a4d2da65e6998c01818a4778f6ac40c0afeeed",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 38524,
@@ -179,18 +179,18 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 536,
+    "version": 537,
     "internalName": "OHLI24",
     "description": "Anime and movies with Korean subtitles only (no Korean audio)",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/OHLI24-v536-2e87614674fc.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/OHLI24-v537-0d6e1d6ebbbd.cs3",
     "name": "OHLI24"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/Streamed/faviconV2.png",
-    "fileHash": "sha256-50053a262ca3672790a75fdfd7cc931ac1b01901b0766fc1d3db94913c9aa394",
+    "fileHash": "sha256-3a46eeedfc33b3f4d3ff7b2be160a34ce4140654549c2fcba83424c16713c24e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
-    "fileSize": 32547,
+    "fileSize": 32544,
     "status": 1,
     "language": "en",
     "authors": [
@@ -199,18 +199,18 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 560,
+    "version": 561,
     "internalName": "Streamed",
     "description": "Live Sports",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/Streamed-v560-50053a262ca3.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/Streamed-v561-3a46eeedfc33.cs3",
     "name": "Streamed"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/0dfe09d8d6df0f32fd8369530187538114e94fd7/StremioC/stremio.png",
-    "fileHash": "sha256-c529280fec446aa1f3d964ecd4bfa1f64bd459b630edcd98c0b053a98b51d4f0",
+    "fileHash": "sha256-172479e4cb61f45bc7df8dac6dcafe3319902e2754f8f7a40c0033d081d55cfc",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
-    "fileSize": 1015447,
+    "fileSize": 1015869,
     "status": 1,
     "language": "en",
     "authors": [
@@ -220,15 +220,15 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 546,
+    "version": 547,
     "internalName": "StremioC",
     "description": "StremioC Allow you to use all addons",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/StremioC-v546-c529280fec44.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/StremioC-v547-172479e4cb61.cs3",
     "name": "StremioC"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/SyncCS/cloud-sync.png",
-    "fileHash": "sha256-a35f6010312385bc9a34f4e8872b8c36af5bd6978f1d26a0eb948dbf8f59101c",
+    "fileHash": "sha256-89ca8768aa43f28e2ec4df4f445a35dee9e7de5362f133ed02a6afc291a015f4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 229207,
@@ -240,15 +240,15 @@
     "tvTypes": [
       "Other"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "SyncCS",
     "description": "Encrypt and synchronize CloudStream settings and watch history through a private GitHub repository",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/SyncCS-v534-a35f60103123.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/SyncCS-v535-89ca8768aa43.cs3",
     "name": "SyncCS"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/TvchakProvider/logo.png",
-    "fileHash": "sha256-41af65cf3a48594ccf360839592fa7340fbea6ac4cf32c30df51c5d413c38481",
+    "fileHash": "sha256-aa2dc97714f92f3b94aa536dea7058faa33e2ba833fa2c73dc24c86ab9f7011e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 30408,
@@ -263,18 +263,18 @@
       "AsianDrama",
       "Anime"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "TvchakProvider",
     "description": "한국 드라마 및 TV 프로그램 다시보기 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/TvchakProvider-v534-41af65cf3a48.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/TvchakProvider-v535-aa2dc97714f9.cs3",
     "name": "TvchakProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/TVMONProvider/111.png",
-    "fileHash": "sha256-d21e9f233fd521bc945b86abec886dc72517d34e9365da90123e6d520aa78196",
+    "fileHash": "sha256-50703aa706f424fa09a06c8be710c141ffe6c8a4373a4cc6c4dbbd9ceb88ae1d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
-    "fileSize": 51129,
+    "fileSize": 51130,
     "status": 1,
     "language": "ko",
     "authors": [
@@ -286,15 +286,15 @@
       "AsianDrama",
       "Anime"
     ],
-    "version": 535,
+    "version": 536,
     "internalName": "TVMONProvider",
     "description": "한국 드라마 및 TV 프로그램 다시보기 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/TVMONProvider-v535-d21e9f233fd5.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/TVMONProvider-v536-50703aa706f4.cs3",
     "name": "TVMONProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/TVWikiProvider/logo.png",
-    "fileHash": "sha256-985cae5c4eb52fc948dd07896752ee3396f9960f5d60eae12a9d4706ab669b40",
+    "fileHash": "sha256-bed131b6f0caef01c390596440113470a2d616b3dd352354ace56c9d6d5e93c2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 59531,
@@ -309,18 +309,18 @@
       "AsianDrama",
       "Anime"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "TVWikiProvider",
     "description": "한국 드라마 및 TV 프로그램 다시보기 제공",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/TVWikiProvider-v534-985cae5c4eb5.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/TVWikiProvider-v535-bed131b6f0ca.cs3",
     "name": "TVWikiProvider"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/Ultima%20Evo/UltimaBeta.jpg",
-    "fileHash": "sha256-1756bf9ab47d3022ab94d7a6bf13f4a16a094a3f50032768213e2a03cc753804",
+    "fileHash": "sha256-33335e944a4bcd2ba7eba3af3d99bb1fe56b673a9b4c1c9c46a5deec503cfe14",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
-    "fileSize": 72631,
+    "fileSize": 72630,
     "status": 1,
     "language": "ko",
     "authors": [
@@ -331,15 +331,15 @@
       "Live",
       "Other"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "Ultima Evo",
     "description": "All in one Catalogs",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/Ultima%20Evo-v534-1756bf9ab47d.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/Ultima%20Evo-v535-33335e944a4b.cs3",
     "name": "Ultima Evo"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/hsp1020/TestPlugins/refs/heads/master/YouTube/Youtube_logo.png",
-    "fileHash": "sha256-0ed7891d31de27593b7b335a97d1e55f982a0da0a5494c3f7dfefe33fe1125fa",
+    "fileHash": "sha256-9cd99c1c7389118578da1629132e3ceb464993855b169b1f13d6b31655f451d9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/hsp1020/TestPlugins-build",
     "fileSize": 270172,
@@ -352,10 +352,10 @@
       "Live",
       "TvSeries"
     ],
-    "version": 534,
+    "version": 535,
     "internalName": "YouTube",
     "description": "Watch Youtube in Cloudstream",
-    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/YouTube-v534-0ed7891d31de.cs3",
+    "url": "https://raw.githubusercontent.com/hsp1020/TestPlugins-build/builds/YouTube-v535-9cd99c1c7389.cs3",
     "name": "YouTube"
   }
 ]
